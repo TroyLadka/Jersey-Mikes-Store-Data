@@ -38,12 +38,4 @@ python mikes_store_data.py
 - Performance depends on website structure
 - Potential for script breakage if website changes
 
-## Legal Note
-- Ensure compliance with Jersey Mike's terms of service
-- Review website's robots.txt before scraping
 
-## Contributing
-Contributions welcome! Open an issue or submit a pull request.
-
-## License
-MIT License
